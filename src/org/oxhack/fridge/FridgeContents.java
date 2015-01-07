@@ -86,7 +86,7 @@ public class FridgeContents extends Activity
 	addrow(this, pricelist, "Small Milky Ways", "0.40");
 	addrow(this, pricelist, "Starburst", "0.75");
 	addrow(this, pricelist, "Skittles, 55g", "0.75");
-	addrow(this, pricelist, "Baby Pringes", "0.75");
+	addrow(this, pricelist, "Baby Pringles", "0.75");
 	addrow(this, pricelist, "Oreos", "0.75");
 	addrow(this, pricelist, "Turkish Delight", "0.50");
 	addrow(this, pricelist, "Puddings", "0.40");
